@@ -1,2 +1,8 @@
 # Stata Script
-Repo contains the Stata scripts to run and automate a modern MissForest (outdated) replacement + the full functionality of RandomForest in Python.
+## Overview
+This repository contains Stata `.ado` code to interface with a Python-basd imputation algorithm.
+It defines program options, handles parameter passing, and executes the Python backend.
+
+## Dependencies
+- Python 3.x
+- Required Python libraries (listed in python_work)
