@@ -1,2 +1,2 @@
-# stata_scripting
-Repo contains the Stata scripts to run my MissForest stand-in + RandomForest in Python.
+# Stata Script
+Repo contains the Stata scripts to run and automate a modern MissForest (outdated) replacement + the full functionality of RandomForest in Python.
