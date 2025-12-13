@@ -9,7 +9,7 @@ program define missforest_rf_master
     // - NImp(integer 10): n_estimators for RF inside IterativeImputer (MissForest step)
     // - NModel(integer 500): n_estimators for RandomForest models (per target)
     // - MaxIter(integer 10): max iterations for iterative imputation
-    // - RandomState(integer 0): random speed for reproducibility
+    // - RandomState(integer 0): random seed for reproducibility
     // - NJobs(integer 1): parallel jobs for RF models (use -1 for all cores)
     // - TopFeatures(integer 0): top N features to report per target (use 0 to print all)
     // - MaxDepth(integer 0): RF max_depth (0 means None)
